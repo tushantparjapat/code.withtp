@@ -1,0 +1,18 @@
+{
+    "params": {
+        "blog_name": "code.withTp",
+        "gmail-user": "@gmail.com",
+        "gmail-password": "qqq",
+        "no_of_posts": 4,
+        "admin_user":"tushant",
+        "admin_pass":"1234",
+        "sqlalchemy_config":"mysql://root:@localhost/codewithtp",
+        "upload_location":"C:\\Users\\hp\\Desktop\\blog in flask\\static\\upload_img",
+        "youtube":"https://www.youtube.com/channel/UCkE6vVfJJIPb13aHVmSpXsw",
+        "insta":"https://www.instagram.com/code.withtp/",
+        "facebook":"#!",
+        "aboutp1":"Code information will also come on this blog site.",
+        "aboutp2":"The Instagram page is code.twitter, on which the code information comes.",
+        "aboutp3":"Code information will also come on this blog site."
+    }
+}
